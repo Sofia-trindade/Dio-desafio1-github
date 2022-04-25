@@ -1,0 +1,26 @@
+
+Lik para dawnloaddo Git: https://git-scm.com/download
+
+#GIT:
+É um sistema de versionamento de código distribuído;
+
+#Sistema distribuído:
+É um sistema que possui múltiplas cópias de si mesmo em diferentes locais.
+
+#GITHUB:
+é uma plataforma p/ hospedar esse arquivos/projeto que utiliza no Git.
+
+#comando git clone:
+faz um clone de repositório remoto em seu repositório local.
+
+#comando git init:
+Inicializa um repositório Git na pasta em questão.
+
+#Repositório:
+È o diretório/pasta onde coloca os projetos que esta sendo utilizado no Git.
+
+#Qual a diferença do seu ambiente de desenvolvimento e do servidor?
+Seu ambiente de desenvolvimento é local e o servidor, remoto.
+
+#Arquivo do tipo markdown:
+É um arquivo que usa caracteres especiais como # para formatar o texto.
